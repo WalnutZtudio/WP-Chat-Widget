@@ -1,5 +1,6 @@
 <!-- 
 WhatsHelp social widget
+Link: https://github.com/nuttaruj/WP-Chat-Widget
  -->
 
 <script type="text/javascript">
